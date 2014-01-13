@@ -1,15 +1,10 @@
-# Sellfy.com "Buy Now" button for WordPress
+# Sellfy "Buy Now" Plugin for WordPress
 
-Simply paste in the product URL from the [Sellfy dashboard](https://sellfy.com/user/#/products) and this plugin will automatically convert it into a "Buy Now" button.
+Simply copy the product URL from the [Sellfy dashboard](https://sellfy.com/user/#/products) and this plugin will automatically turn it into a "Buy Now" button.
 
-## 1. Grab the product URL
+Buy this plugin:  
+<a href="https://sellfy.com/p/sYt3/">![Buy this plugin](http://preseto.com/wp-content/uploads/2014/01/sellfy-plugin-buy-button.png)</a>
 
-![Grab the product URL in Sellfy.com dashboard](https://raw.github.com/kasparsd/sellfy-embed-wordpress/master/screenshot1.png)
+See [plugin documention and screenshots](http://preseto.com/plugins/sellfy-embed).
 
-## 2. Copy that URL into any post or page
 
-![Paste it in post or page](https://raw.github.com/kasparsd/sellfy-embed-wordpress/master/screenshot2.png)
-
-## 3. Enjoy the instant "Buy Now" feature
-
-![Enjoy the instant Buy Now feature on your blog](https://raw.github.com/kasparsd/sellfy-embed-wordpress/master/screenshot3.png)
