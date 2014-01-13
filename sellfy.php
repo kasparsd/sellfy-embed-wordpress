@@ -6,6 +6,8 @@
 	Author: Kaspars Dambis
 	Version: 0.1
 	Author URI: http://kaspars.net
+	Text Domain: sellfy-embed
+	Domain Path: /lang
 */
 
 // Disable direct calls
