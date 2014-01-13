@@ -4,7 +4,7 @@
 	Plugin URI: http://kaspars.net
 	Description: Convert all Sellfy product links into "Buy Now" buttons
 	Author: Kaspars Dambis
-	Version: 0.1
+	Version: 1.1
 	Author URI: http://kaspars.net
 	Text Domain: sellfy-embed
 	Domain Path: /lang
