@@ -1,0 +1,38 @@
+# Copyright (C) 2014 Sellfy for WordPress
+# This file is distributed under the same license as the Sellfy for WordPress package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Sellfy for WordPress 1.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/sellfy\n"
+"POT-Creation-Date: 2014-01-14 09:26:24+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-01-14 11:27+0200\n"
+"Last-Translator: Kaspars <kaspars@konstruktors.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: Poedit 1.6.3\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : "
+"2);\n"
+"Language: lv\n"
+
+#: sellfy.php:59
+msgid "Buy"
+msgstr "Pirkt"
+
+#. Plugin Name of the plugin/theme
+msgid "Sellfy for WordPress"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://kaspars.net"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Convert all Sellfy product links into \"Buy Now\" buttons"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Kaspars Dambis"
+msgstr ""
