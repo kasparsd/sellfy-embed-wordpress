@@ -1,11 +1,11 @@
 <?php
 /*
 	Plugin Name: Sellfy for WordPress
-	Plugin URI: http://kaspars.net
+	Plugin URI: http://preseto.com/plugins/sellfy-embed
 	Description: Converts Sellfy product and store links into appropriate embed codes.
 	Author: Kaspars Dambis
-	Version: 1.2.1
-	Author URI: http://kaspars.net
+	Version: 1.2.2
+	Author URI: http://preseto.com
 	Text Domain: sellfy-embed
 	Domain Path: /lang
 */
