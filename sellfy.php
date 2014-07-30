@@ -4,7 +4,7 @@
 	Plugin URI: http://kaspars.net
 	Description: Converts Sellfy product and store links into appropriate embed codes.
 	Author: Kaspars Dambis
-	Version: 1.2
+	Version: 1.2.1
 	Author URI: http://kaspars.net
 	Text Domain: sellfy-embed
 	Domain Path: /lang
